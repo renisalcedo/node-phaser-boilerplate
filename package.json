@@ -1,9 +1,9 @@
 {
-  "name": "flappy-bird",
+  "name": "node-phaser-boilerplate",
   "version": "1.0.0",
-  "description": "A phaser implementation of flappy bird",
+  "description": "A phaser boilerplate for local development and deployment",
   "main": "index.js",
-  "author": "Winnie Tam, Reynaldo Salcedo",
+  "author": "Reynaldo Salcedo",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2"
