@@ -5,14 +5,21 @@
 This is a boiler plate with an express nodejs server to run your phaser
 game. All client related code must go on the public folder.
 
-## How to use
+## Getting Started
 
-1. ``` git clone git@github.com:renisalcedo/node-phaser-boilerplate.git ```
+```bash
+git clone git@github.com:renisalcedo/node-phaser-boilerplate.git
 
-2. ``` cd node-phaser-boilerplate ```
+cd node-phaser-boilerplate
 
-3. ``` yarn ```
+yarn
 
-4. ``` yarn start ```
+yarn start
 
-5. visit ``` localhost:3000 ```
+visit localhost:3000
+```
+
+## Separate GitHub pages branch
+
+If you need a separate branch for the GitHub pages, this [link](https://gist.github.com/cobyism/4730490)
+gets you up and running in 3 simple steps.
